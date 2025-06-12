@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\AtomCalc\AtomCalc\bin\Debug\AtomCalc.exe.config
+C:\Users\user\source\repos\AtomCalc\AtomCalc\bin\Debug\AtomCalc.exe
+C:\Users\user\source\repos\AtomCalc\AtomCalc\bin\Debug\AtomCalc.pdb
+C:\Users\user\source\repos\AtomCalc\AtomCalc\obj\Debug\AtomCalc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AtomCalc\AtomCalc\obj\Debug\AtomCalc.Form1.resources
+C:\Users\user\source\repos\AtomCalc\AtomCalc\obj\Debug\AtomCalc.Properties.Resources.resources
+C:\Users\user\source\repos\AtomCalc\AtomCalc\obj\Debug\AtomCalc.csproj.GenerateResource.cache
+C:\Users\user\source\repos\AtomCalc\AtomCalc\obj\Debug\AtomCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AtomCalc\AtomCalc\obj\Debug\AtomCalc.exe
+C:\Users\user\source\repos\AtomCalc\AtomCalc\obj\Debug\AtomCalc.pdb
